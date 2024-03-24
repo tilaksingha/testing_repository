@@ -1,5 +1,4 @@
-summarize
-[![MasterHead]([https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://media.licdn.com/dms/image/D4E03AQFWyxuBZhQTjA/profile-displayphoto-shrink_800_800/0/1697375734604?e=2147483647&v=beta&t=ZnXYmjEBEJUqI2iCvIHn2uEadHjiCqFQX0HyoeRF6ik)](https://https://www.linkedin.com/in/tilaksingha/)
+summarize [![MasterHead]([https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://media.licdn.com/dms/image/D4E03AQFWyxuBZhQTjA/profile-displayphoto-shrink_800_800/0/1697375734604?e=2147483647&v=beta&t=ZnXYmjEBEJUqI2iCvIHn2uEadHjiCqFQX0HyoeRF6ik)](https://https://www.linkedin.com/in/tilaksingha/)
 <h1 align="center">Hi 👋, I'm Tilak Singha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
